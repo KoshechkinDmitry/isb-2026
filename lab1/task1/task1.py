@@ -3,7 +3,7 @@ from constants import *
 
 def encrypt(text: str, alphabet: str, key: str) -> str:
     """
-    Шифрует текст с использованием моноалфавитной подстановки.
+    Шифрует текст с использованием простой подстановки.
 
     :param text: исходный текст
     :param alphabet: исходный алфавит
@@ -22,7 +22,7 @@ def encrypt(text: str, alphabet: str, key: str) -> str:
 
 def decrypt(text: str, alphabet: str, key: str) -> str:
     """
-    Дешифрует текст с использованием моноалфавитной подстановки.
+    Дешифрует текст с использованием простой подстановки.
 
     :param text: зашифрованный текст
     :param alphabet: исходный алфавит
