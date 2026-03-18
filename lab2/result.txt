@@ -1,12 +1,12 @@
 Generator C++
 
-Test1 P = 0.21592 - success
-Test2 P = 0.03529 - success
-Test3 P = 0.47462 - success
+Test1 P = 0.59588 - success
+Test2 P = 0.46321 - success
+Test3 P = 0.39068 - success
 
 Generator Java
 
-Test1 P = 1.00000 - success
-Test2 P = 0.05183 - success
-Test3 P = 0.07728 - success
+Test1 P = 0.21592 - success
+Test2 P = 0.22609 - success
+Test3 P = 0.53581 - success
 
